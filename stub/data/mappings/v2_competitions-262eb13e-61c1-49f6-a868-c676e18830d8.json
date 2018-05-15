@@ -1,0 +1,30 @@
+{
+  "id" : "262eb13e-61c1-49f6-a868-c676e18830d8",
+  "name" : "v2_competitions",
+  "request" : {
+    "url" : "/v2/competitions",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"count\":18,\"filters\":{},\"competitions\":[{\"id\":1,\"area\":{\"id\":225,\"name\":\"Spain\"},\"name\":\"Primera Division\",\"code\":null,\"currentSeason\":{\"id\":1,\"startDate\":\"2017-08-18T18:15:00Z\",\"endDate\":\"2018-05-20T18:45:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-04-19T10:48:05Z\"},{\"id\":2,\"area\":{\"id\":89,\"name\":\"Germany\"},\"name\":\"1. Bundesliga\",\"code\":null,\"currentSeason\":{\"id\":2,\"startDate\":\"2017-08-18T18:30:00Z\",\"endDate\":\"2018-05-12T13:30:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-04-21T16:53:28Z\"},{\"id\":3,\"area\":{\"id\":89,\"name\":\"Germany\"},\"name\":\"2. Bundesliga\",\"code\":null,\"currentSeason\":{\"id\":3,\"startDate\":null,\"endDate\":null,\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-04-23T16:41:36Z\"},{\"id\":4,\"area\":{\"id\":78,\"name\":\"Europe\"},\"name\":\"Champions League\",\"code\":null,\"currentSeason\":{\"id\":4,\"startDate\":null,\"endDate\":null,\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T20:00:04Z\"},{\"id\":5,\"area\":{\"id\":1,\"name\":\"Afghanistan\"},\"name\":\"Ligue 2\",\"code\":null,\"currentSeason\":{\"id\":5,\"startDate\":\"2017-07-28T18:00:00Z\",\"endDate\":\"2018-05-11T18:45:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-04T18:21:33Z\"},{\"id\":6,\"area\":{\"id\":33,\"name\":\"Brazil\"},\"name\":\"Série A\",\"code\":null,\"currentSeason\":{\"id\":6,\"startDate\":\"2018-04-14T19:00:00Z\",\"endDate\":\"2018-12-01T23:00:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-06T17:48:59Z\"},{\"id\":7,\"area\":{\"id\":115,\"name\":\"Italy\"},\"name\":\"Serie A\",\"code\":null,\"currentSeason\":{\"id\":7,\"startDate\":\"2017-08-19T16:00:00Z\",\"endDate\":\"2018-05-20T18:45:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-06T17:49:18Z\"},{\"id\":8,\"area\":{\"id\":115,\"name\":\"Italy\"},\"name\":\"Serie B\",\"code\":null,\"currentSeason\":{\"id\":8,\"startDate\":\"2017-08-25T18:30:00Z\",\"endDate\":\"2018-05-30T18:30:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-06T17:49:29Z\"},{\"id\":9,\"area\":{\"id\":268,\"name\":\"World\"},\"name\":\"FIFA World Cup\",\"code\":null,\"currentSeason\":{\"id\":9,\"startDate\":\"2018-06-14T15:00:00Z\",\"endDate\":\"2018-07-15T15:00:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T19:23:54Z\"},{\"id\":10,\"area\":{\"id\":73,\"name\":\"England\"},\"name\":\"Championship\",\"code\":null,\"currentSeason\":{\"id\":10,\"startDate\":\"2017-08-04T18:45:00Z\",\"endDate\":\"2018-05-15T18:45:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T19:24:10Z\"},{\"id\":11,\"area\":{\"id\":null,\"name\":null},\"name\":\"A League\",\"code\":null,\"currentSeason\":{\"id\":11,\"startDate\":\"2017-10-06T08:50:00Z\",\"endDate\":\"2018-05-05T09:50:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T19:17:58Z\"},{\"id\":12,\"area\":{\"id\":null,\"name\":null},\"name\":\"League One\",\"code\":null,\"currentSeason\":{\"id\":12,\"startDate\":\"2017-08-05T14:00:00Z\",\"endDate\":\"2018-05-16T18:45:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T19:21:44Z\"},{\"id\":13,\"area\":{\"id\":null,\"name\":null},\"name\":\"League Two\",\"code\":null,\"currentSeason\":{\"id\":13,\"startDate\":\"2017-08-05T14:00:00Z\",\"endDate\":\"2018-05-05T14:00:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T19:24:39Z\"},{\"id\":14,\"area\":{\"id\":null,\"name\":null},\"name\":\"DFB-Pokal\",\"code\":null,\"currentSeason\":{\"id\":15,\"startDate\":\"2017-08-11T17:00:00Z\",\"endDate\":\"2018-05-19T18:00:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T19:44:25Z\"},{\"id\":15,\"area\":{\"id\":null,\"name\":null},\"name\":\"Primeira Liga\",\"code\":null,\"currentSeason\":{\"id\":16,\"startDate\":null,\"endDate\":null,\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T20:00:14Z\"},{\"id\":16,\"area\":{\"id\":null,\"name\":null},\"name\":\"Eredivisie\",\"code\":null,\"currentSeason\":{\"id\":17,\"startDate\":\"2017-08-11T17:00:00Z\",\"endDate\":\"2018-05-12T18:45:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T20:02:32Z\"},{\"id\":17,\"area\":{\"id\":null,\"name\":null},\"name\":\"Premier League\",\"code\":null,\"currentSeason\":{\"id\":19,\"startDate\":\"2017-08-11T18:45:00Z\",\"endDate\":\"2018-05-13T14:00:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T20:08:38Z\"},{\"id\":18,\"area\":{\"id\":null,\"name\":null},\"name\":\"Ligue 1\",\"code\":null,\"currentSeason\":{\"id\":20,\"startDate\":\"2017-08-04T18:45:00Z\",\"endDate\":\"2018-05-18T22:00:00Z\",\"currentMatchday\":null},\"numberOfAvailableSeasons\":1,\"lastUpdated\":\"2018-05-07T20:11:24Z\"}]}",
+    "headers" : {
+      "Server" : "nginx/1.6.2",
+      "Date" : "Fri, 11 May 2018 23:01:12 GMT",
+      "Content-Type" : "application/json;charset=UTF-8",
+      "Connection" : "keep-alive",
+      "X-Application-Context" : "application:production",
+      "X-Requests-Available-Minute" : "6",
+      "X-RequestCounter-Reset" : "60",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Credentials" : "true",
+      "Access-Control-Allow-Methods" : "GET",
+      "X-Authenticated-Client" : "Maarten Dirkse",
+      "X-Response-Control" : "full",
+      "Content-Language" : "en-US"
+    }
+  },
+  "uuid" : "262eb13e-61c1-49f6-a868-c676e18830d8",
+  "persistent" : true,
+  "insertionIndex" : 4
+}

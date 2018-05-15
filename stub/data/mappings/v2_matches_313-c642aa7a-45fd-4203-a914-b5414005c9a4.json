@@ -1,0 +1,30 @@
+{
+  "id" : "c642aa7a-45fd-4203-a914-b5414005c9a4",
+  "name" : "v2_matches_313",
+  "request" : {
+    "url" : "/v2/matches/313",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"id\":313,\"competition\":{\"id\":1,\"name\":\"Primera Division\"},\"status\":\"FINISHED\",\"matchday\":32,\"stage\":\"REGULAR_SEASON\",\"homeTeam\":{\"id\":81,\"name\":\"FC Barcelona\",\"coach\":{\"id\":null,\"name\":null,\"countryOfBirth\":null,\"nationality\":null},\"captain\":{\"id\":null,\"name\":null,\"shirtNumber\":null},\"lineup\":[],\"bench\":[]},\"awayTeam\":{\"id\":95,\"name\":\"Valencia CF\",\"coach\":{\"id\":null,\"name\":null,\"countryOfBirth\":null,\"nationality\":null},\"captain\":{\"id\":null,\"name\":null,\"shirtNumber\":null},\"lineup\":[],\"bench\":[]},\"score\":{\"winner\":\"HOME_TEAM\",\"duration\":\"REGULAR\",\"halfTime\":{\"homeTeam\":1,\"awayTeam\":0},\"fullTime\":{\"homeTeam\":2,\"awayTeam\":1},\"extraTime\":{\"homeTeam\":null,\"awayTeam\":null},\"penalties\":{\"homeTeam\":null,\"awayTeam\":null}},\"goals\":[],\"bookings\":[],\"substitutions\":[]}",
+    "headers" : {
+      "Server" : "nginx/1.6.2",
+      "Date" : "Fri, 11 May 2018 23:04:16 GMT",
+      "Content-Type" : "application/json;charset=UTF-8",
+      "Connection" : "keep-alive",
+      "X-Application-Context" : "application:production",
+      "X-Requests-Available-Minute" : "8",
+      "X-RequestCounter-Reset" : "60",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Credentials" : "true",
+      "Access-Control-Allow-Methods" : "GET",
+      "X-Authenticated-Client" : "Maarten Dirkse",
+      "X-Response-Control" : "full",
+      "Content-Language" : "en-US"
+    }
+  },
+  "uuid" : "c642aa7a-45fd-4203-a914-b5414005c9a4",
+  "persistent" : true,
+  "insertionIndex" : 14
+}

@@ -1,0 +1,30 @@
+{
+  "id" : "33590487-33a4-4a90-97c5-95dce54a962c",
+  "name" : "v2_areas_164",
+  "request" : {
+    "url" : "/v2/areas/164",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"id\":164,\"name\":\"Netherlands\",\"countryCode\":\"NLD\",\"parentAreaId\":78,\"parentArea\":\"Europe\"}",
+    "headers" : {
+      "Server" : "nginx/1.6.2",
+      "Date" : "Fri, 11 May 2018 23:01:12 GMT",
+      "Content-Type" : "application/json;charset=UTF-8",
+      "Connection" : "keep-alive",
+      "X-Application-Context" : "application:production",
+      "X-Requests-Available-Minute" : "7",
+      "X-RequestCounter-Reset" : "60",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Credentials" : "true",
+      "Access-Control-Allow-Methods" : "GET",
+      "X-Authenticated-Client" : "Maarten Dirkse",
+      "X-Response-Control" : "full",
+      "Content-Language" : "en-US"
+    }
+  },
+  "uuid" : "33590487-33a4-4a90-97c5-95dce54a962c",
+  "persistent" : true,
+  "insertionIndex" : 3
+}

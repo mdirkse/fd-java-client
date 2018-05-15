@@ -1,0 +1,22 @@
+apply plugin: 'java'
+
+group = 'com.footballdata.v2.client'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories { mavenCentral() }
+
+dependencies {
+	compile('com.fasterxml.jackson.core:jackson-annotations:2.9.5')
+	compile('com.fasterxml.jackson.core:jackson-databind:2.9.5')
+    compile('com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.5')
+	compile('io.github.openfeign:feign-jackson:9.6.0')
+	compile('io.github.openfeign:feign-slf4j:9.6.0')
+	compile('org.apache.commons:commons-lang3:3.7')
+	testCompile('org.junit.jupiter:junit-jupiter-engine:5.1.0')
+	testCompile('org.junit.jupiter:junit-jupiter-params:5.1.0')
+    testCompile('org.assertj:assertj-core:3.9.0')
+}
+
+test { useJUnitPlatform() }

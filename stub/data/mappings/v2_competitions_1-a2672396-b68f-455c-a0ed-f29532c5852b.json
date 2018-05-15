@@ -1,0 +1,30 @@
+{
+  "id" : "a2672396-b68f-455c-a0ed-f29532c5852b",
+  "name" : "v2_competitions_1",
+  "request" : {
+    "url" : "/v2/competitions/1",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"id\":1,\"area\":{\"id\":225,\"name\":\"Spain\"},\"name\":\"Primera Division\",\"code\":null,\"currentSeason\":{\"id\":1,\"startDate\":\"2017-08-18T18:15:00Z\",\"endDate\":\"2018-05-20T18:45:00Z\",\"currentMatchday\":null},\"seasons\":[{\"id\":1,\"startDate\":\"2017-08-18T18:15:00Z\",\"endDate\":\"2018-05-20T18:45:00Z\",\"currentMatchday\":null}],\"lastUpdated\":\"2018-04-19T10:48:05Z\"}",
+    "headers" : {
+      "Server" : "nginx/1.6.2",
+      "Date" : "Fri, 11 May 2018 23:01:12 GMT",
+      "Content-Type" : "application/json;charset=UTF-8",
+      "Connection" : "keep-alive",
+      "X-Application-Context" : "application:production",
+      "X-Requests-Available-Minute" : "5",
+      "X-RequestCounter-Reset" : "60",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Credentials" : "true",
+      "Access-Control-Allow-Methods" : "GET",
+      "X-Authenticated-Client" : "Maarten Dirkse",
+      "X-Response-Control" : "full",
+      "Content-Language" : "en-US"
+    }
+  },
+  "uuid" : "a2672396-b68f-455c-a0ed-f29532c5852b",
+  "persistent" : true,
+  "insertionIndex" : 5
+}
